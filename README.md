@@ -12,3 +12,4 @@
 <img align="center" src="https://github.com/Arthur020104/finance-cs50project/blob/master/Readme%20images/Screenshot_5.png?raw=true">
 <p>The history page,where you can see all your transactions.</p>
 <img align="center" src="https://github.com/Arthur020104/finance-cs50project/blob/master/Readme%20images/Screenshot_7.png?raw=true">
+<p>Financial data API from iexcloud.io.</p>
